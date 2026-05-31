@@ -9,8 +9,8 @@ plugins:
 
 # logo: "/assets/images/logo.svg"
 favicon_ico: "/assets/images/logo.svg"
-url: "https://session2026.github.io"
-baseurl: "/AgregSpePhyMarseille"
+url: "https://agregspephymarseille.github.io"
+baseurl: "/session2026"
 
 # color_scheme: light
 color_scheme: custom
@@ -19,7 +19,7 @@ search_enabled: true
 
 aux_links:
   GitHub:
-    - https://github.com/AgregSpePhyMarseille/session2026.github.io
+    - https://github.com/AgregSpePhyMarseille/session2026
 
 nav_sort: case_insensitive
 
