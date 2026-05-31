@@ -17,22 +17,14 @@ Pour la Physique et la Chimie, vous trouverez sur la bare latérale :
 
 ---
 
-Pour télécharger les cours, faire *clic droit → "Enregistrer sous"*
-
 ## Les cours de Physique
 
-- **CD** Cours de Physique : **[cours_physique.pdf]({{ site.baseurl }}/physique/pdf/cours_physique.pdf)**
-- **SS** Cours de Physique : **[cours_physique.pdf]({{ site.baseurl }}/physique/pdf/cours_physique.pdf)**
-- **AM** Cours de Physique : **[cours_physique.pdf]({{ site.baseurl }}/physique/pdf/cours_physique.pdf)**
+- **CD** Cours de Physique : **[cours_physique_CD.pdf]({{ site.baseurl }}/physique/pdf/cours_physique_CD.pdf)**
+- **SS** Cours de Physique : **[cours_physique_SS.pdf]({{ site.baseurl }}/physique/pdf/cours_physique_SS.pdf)**
+- **AM** Cours de Physique : **[cours_physique_AM.pdf]({{ site.baseurl }}/physique/pdf/cours_physique_AM.pdf)**
 
 ## Les cours de Chimie
 
-- **CD** Cours de Physique : **[cours_chimie.pdf]({{ site.baseurl }}/physique/ressources/cours_chimie.pdf)**
-- **SS** Cours de Physique : **[cours_chimie.pdf]({{ site.baseurl }}/physique/ressources/cours_chimie.pdf)**
-- **AM** Cours de Physique : **[cours_chimie.pdf]({{ site.baseurl }}/physique/ressources/cours_chimie.pdf)**
-
-<p align="center">
-  <img src="/assets/images/chimie/molecule.png"
-       alt="Molécule"
-       width="500">
-</p>
+- **CD** Cours de Chimie : **[cours_chimie_CD.pdf]({{ site.baseurl }}/chimie/pdf/cours_chimie_CD.pdf)**
+- **SS** Cours de Chimie : **[cours_chimie_SS.pdf]({{ site.baseurl }}/chimie/pdf/cours_chimie_SS.pdf)**
+- **AM** Cours de Chimie : **[cours_chimie_AM.pdf]({{ site.baseurl }}/chimie/pdf/cours_chimie_AM.pdf)**

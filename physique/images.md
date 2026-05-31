@@ -10,7 +10,7 @@ nav_order: 2
 
 Cette page rassemble les illustrations utilisées en physique.
 
-[📥 Télécharger toutes les images](/downloads/images-physique.zip){: .btn .btn-primary }
+[📥 Télécharger toutes les images]({{ site.baseurl }}/assets/downloads/images-physique.zip){: .btn .btn-primary }
 
 
 ---

@@ -10,4 +10,4 @@ nav_order: 1
 
 Cette page rassemble les scripts Python utilisés en physique.
 
-[📥 Télécharger toutes les scripts](/downloads/codes-physique.zip){: .btn .btn-primary }
+[📥 Télécharger toutes les scripts]({{ site.baseurl }}/assets/downloads/codes-physique.zip){: .btn .btn-primary }

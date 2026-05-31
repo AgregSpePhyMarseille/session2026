@@ -10,4 +10,4 @@ nav_order: 1
 
 Cette page rassemble les scripts Python utilisés en chimie.
 
-[📥 Télécharger toutes les scripts](/downloads/codes-chimie.zip){: .btn .btn-primary }
+[📥 Télécharger toutes les scripts]({{ site.baseurl }}/assets/downloads/codes-chimie.zip){: .btn .btn-primary }
