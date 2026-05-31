@@ -10,10 +10,10 @@ nav_order: 1
 
 Scripts de simulation, traitement de données et visualisations.
 
-→ [Accéder aux codes Python](python)
+→ [Accéder aux codes Python](physique/python)
 
 ## Images
 
 Schémas, photographies et illustrations.
 
-→ [Accéder aux images](images)
+→ [Accéder aux images](physique/images)
