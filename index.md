@@ -32,5 +32,5 @@ Pour la Physique et la Chimie, vous trouverez sur la bare latérale :
 - **SS** Cours de Chimie : **[cours_chimie_SS.pdf]({{ site.baseurl }}/chimie/pdf/cours_chimie_SS.pdf)**
 - **AM** Cours de Chimie : **[cours_chimie_AM.pdf]({{ site.baseurl }}/chimie/pdf/cours_chimie_AM.pdf)**
 <br>
-[📥 Télécharger tous les pdf]({{ site.baseurl }}/assets/downloads/pdf-physique.zip){: .btn .btn-primary }
+[📥 Télécharger tous les pdf]({{ site.baseurl }}/assets/downloads/pdf-chimie.zip){: .btn .btn-primary }
 <br>
